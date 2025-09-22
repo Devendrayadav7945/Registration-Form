@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(235, 234, 237);
+}
+
+
+
+#registereBtn{
+    margin: 30px;
+    color: rgb(241, 238, 238);
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-top: 10px;
+    background-color: black;
+    font-weight: 600;
+}
+#Sign-Upform{
+    height: 100%; /* Full height */
+            margin: 0; /* Remove default margin */
+            display: flex; /* Use Flexbox */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            font-family: Arial, sans-serif;
+}
+#loginpageform{
+    height: 100%; /* Full height */
+            margin: 0; /* Remove default margin */
+            display: flex; /* Use Flexbox */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            font-family: Arial, sans-serif;
+}
+#forgotpasswordform{
+    height: 100%; /* Full height */
+            margin: 0; /* Remove default margin */
+            display: flex; /* Use Flexbox */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            font-family: Arial, sans-serif;
+}
